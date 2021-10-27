@@ -10,7 +10,7 @@
     </head>
     <body>
         <h1> SteamLike </h1>
-        <p> Bienvenue sur SteamLike ! Une site qui ressemble tout à fait à Steam mais pas pour des jeux vidéo !! </p>
+        <p> Bienvenue sur SteamLike ! Une site quia ressemble tout à fait à Steam mais pas pour des jeux vidéo !! </p>
 
         <footer> 
             <p> &copy; Copyright 2021 &middot; <a href="#"> Lolilol</a> </p>
